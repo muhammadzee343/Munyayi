@@ -1,0 +1,15 @@
+com/workreapmobile/MainApplication.java
+ com.workreapmobile.MainApplication
+ com.workreapmobile.MainApplication$1
+com/workreapmobile/MainActivity.java
+ com.workreapmobile.MainActivity
+ com.workreapmobile.MainActivity$1
+com/workreapmobile/ReactNativeFlipper.java
+ com.workreapmobile.ReactNativeFlipper
+ com.workreapmobile.ReactNativeFlipper$1
+ com.workreapmobile.ReactNativeFlipper$2
+ com.workreapmobile.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/workreapmobile/BuildConfig.java
+ com.workreapmobile.BuildConfig

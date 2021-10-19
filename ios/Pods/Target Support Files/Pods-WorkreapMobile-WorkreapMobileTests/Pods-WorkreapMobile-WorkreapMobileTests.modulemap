@@ -1,0 +1,6 @@
+module Pods_WorkreapMobile_WorkreapMobileTests {
+  umbrella header "Pods-WorkreapMobile-WorkreapMobileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

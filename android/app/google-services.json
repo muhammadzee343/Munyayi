@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1051970045002",
+    "project_id": "munyayi-a6089",
+    "storage_bucket": "munyayi-a6089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051970045002:android:358f8ceabd8f35302712b3",
+        "android_client_info": {
+          "package_name": "com.munyayi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051970045002-5egn2a845pvpimke1nlt1jgj9s8nq411.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.munyayi",
+            "certificate_hash": "5834e16604973a16660f04a08de4dddf6a7479e8"
+          }
+        },
+        {
+          "client_id": "1051970045002-dsr36cta06rnff9rlet6otuc0ua5qu30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7hm5S948Tji9a8m1btQ-EUkAzCrf1tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051970045002-dsr36cta06rnff9rlet6otuc0ua5qu30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
